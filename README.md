@@ -8,6 +8,15 @@ I'm very interested in **_character design_** and **_3D modeling_**!✨
 
 Also, I am interested in **_programming_**, so I try to study.🤓💻✏️
 
+
+## 😎Skills   
+
+### Languages 
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+
 ### Tools
 
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" /></a>
