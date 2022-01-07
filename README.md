@@ -4,14 +4,14 @@
 
 Hi there👋
 
-I'm a student enrolled in the Department of Art&Technology at Chung-Ang University. 🎮💻📽️
+I'm a student enrolled in the Department of **Art&Technology** at Chung-Ang University. 🎮💻📽️
 
-I'm very interested in character design and 3D modeling!✨
+I'm very interested in **_character design_** and **_3D modeling_**!✨
 
 
-Also, I am interested in programming, so I try to study.🤓💻✏️
+Also, I am interested in **_programming_**, so I try to study.🤓💻✏️
 
-# Tools
+### Tools
 
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" />
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white" />
