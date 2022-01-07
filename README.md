@@ -13,5 +13,5 @@ Also, I am interested in **_programming_**, so I try to study.🤓💻✏️
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white" />
