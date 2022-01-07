@@ -3,11 +3,8 @@
 
 
 Hi there👋
-
 I'm a student enrolled in the Department of **Art&Technology** at Chung-Ang University. 🎮💻📽️
-
 I'm very interested in **_character design_** and **_3D modeling_**!✨
-
 
 Also, I am interested in **_programming_**, so I try to study.🤓💻✏️
 
