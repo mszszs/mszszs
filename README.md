@@ -2,9 +2,9 @@
 <img src="https://img.shields.io/badge/mandollae@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 
-Hi there👋
-I'm a student enrolled in the Department of **Art&Technology** at Chung-Ang University. 🎮💻📽️
-I'm very interested in **_character design_** and **_3D modeling_**!✨
+Hi there👋   
+I'm a student enrolled in the Department of **Art&Technology** at Chung-Ang University. 🎮💻📽️   
+I'm very interested in **_character design_** and **_3D modeling_**!✨   
 
 Also, I am interested in **_programming_**, so I try to study.🤓💻✏️
 
